@@ -1,3 +1,7 @@
+#This file is changed by Peter Peng
+#Peter000000
+#on github
+
 cmake_minimum_required(VERSION 2.8.3)
 project("qubo")
 
